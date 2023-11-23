@@ -1,4 +1,4 @@
-# ccl2-database
+# CCL2 Database
 This is the SQL file for the CCL2 Project.
 
 For more information, go to:
